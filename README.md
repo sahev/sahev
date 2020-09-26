@@ -35,7 +35,7 @@
 
 <hr>
 
-<p align="right">
-  <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
-  <h5 align="right">While coding...</h5>
+<p align="center">
+    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sahev&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahev&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </p>
