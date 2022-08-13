@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋</h1>
 
 <p align='center'>
-  I'm from SP - Brazil, and working for <b>Orbium Solutions</b>.
+  I'm from SP - Brazil, and working for <b>Neon Payments</b>.
 </p>
 
 <p align='center'>
