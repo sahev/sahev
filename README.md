@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/.netcore%20-%23F7DF1E.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/csharp%20-%234d97ff.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mssql%20-%23000000.svg?&style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ASP.NET%20-%23e34f26.svg?&style=for-the-badge&logo=.net&color=green&logoColor=white" />&nbsp;&nbsp;&nbsp;
   
 </p>
 
