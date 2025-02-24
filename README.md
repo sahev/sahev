@@ -1,35 +1,30 @@
-<h1 align='center'> Hi there 👋</h1>
+# 👋 Hi there
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/sahev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+I'm Samuel Evangelista, a passionate software developer and SaaS enthusiast. I currently work as a Senior Software Developer at Zup IT.
+With over 6 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
-<hr>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahev)
 
-<h4 align='center'>I’m currently working on...</h4>
+# 🚀 Expertise
 
-<p align='center'>
-  <img src="https://img.shields.io/badge/.netcore%20-%23F7DF1E.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/csharp%20-%234d97ff.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mssql%20-%23000000.svg?&style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+I am the designer, maintainer, developer, and founder of Clinie.io, a SaaS platform designed to simplify operations for dental clinics. 
+
+Passionate about backend development, with a focus on creating robust, scalable, and user-centric solutions. 
   
-</p>
+Constantly expanding my knowledge and skills in web application development and devops.
 
-<hr>
+# 💻 Tech Stack
 
-<h4 align='center'>I’m currently learning...</h4>
+![.NET 6+](https://img.shields.io/badge/.net%206+-%230A0FFF.svg?style=for-the-badge&logo=.net&logoColor=white) 
+![SqlServer](https://img.shields.io/badge/sql%20server-%23007ACC.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![PSql](https://img.shields.io/badge/postgresql-%23907bCC.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![kafka](https://img.shields.io/badge/kafka-%230A0FFF.svg?style=for-the-badge&logo=apachekafka&logoColor=white) 
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23026AA7.svg?style=for-the-badge&logo=Kubernetes&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p align='center'>
-   <img src="https://img.shields.io/badge/VueJs%20-%23e34f26.svg?&style=for-the-badge&logo=vue.js&color=green&logoColor=white" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/nestjs%20-%23e34f26.svg?&style=for-the-badge&logo=nestjs&color=green&logoColor=white" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Docker%20-%234d97ff.svg?&style=for-the-badge&logo=Docker&logoColor=white" />&nbsp;&nbsp;&nbsp; 
-</p>
-
-
-<hr>
-
-<p align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sahev&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahev&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
-</p>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) 
