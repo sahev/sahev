@@ -1,17 +1,19 @@
 # 👋 Hi there
 
-I'm Samuel Evangelista, a passionate software developer and SaaS enthusiast. I currently work as a Senior Software Developer at Zup IT.
+I'm Samuel Evangelista, a passionate software developer and SaaS enthusiast. I currently work as a Senior Software Developer at Zup Innovation.
 With over 6 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahev)
 
 # 🚀 Expertise
 
-I am the designer, maintainer, developer, and founder of Clinie.io, a SaaS platform designed to simplify operations for dental clinics. 
+I am an extremely passionate software developer. My major is backend development, with a focus on building solutions that are both scalable and user-centric. I am the founder, designer, and developer of Clinie.io, a SaaS platform made for dental clinics. I have experience in creating new tools to simplify the activities performed within a clinic and raise performance levels.
 
-Passionate about backend development, with a focus on creating robust, scalable, and user-centric solutions. 
-  
-Constantly expanding my knowledge and skills in web application development and devops.
+As a Software Developer at Neon Payments, he works on high-volume applications, builds APIs in .NET, and deploys them in containers on Kubernetes. He has led large-scale migrations and re-architected legacy databases to support 25M cards. In addition, he spearheaded the creation of robust testing frameworks to ensure system reliability. His tech stack also includes work with Kafka, RabbitMQ, AWS, and distributed systems.
+
+Earlier, I worked on CRM applications at Orbium Interactive Solutions and willfully automated the regression testing process that improved the existing infrastructure to AWS. From there, I learned how to solve a problem collectively and deliver high-quality software.
+
+I keep learning new things about web development and concerning new tools to be at the very edge of technology. I work well under pressure and would love to bring my experience to cutting-edge projects that have real results.
 
 # 💻 Tech Stack
 
